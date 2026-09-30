@@ -1,4 +1,3 @@
-```bat
 @echo off
 setlocal EnableDelayedExpansion
 mode con cols=120 lines=35
@@ -33,4 +32,3 @@ echo              Update completed successfully.
 echo.
 timeout /t 3 /nobreak >nul
 exit
-```
